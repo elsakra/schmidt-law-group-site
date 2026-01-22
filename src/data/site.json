@@ -1,0 +1,93 @@
+{
+  "company": {
+    "name": "Christian Schmidt, Attorney at Law",
+    "tagline": "Immigration Attorney Serving the greater San Francisco Bay Area and beyond",
+    "description": "Boutique Immigration Law Firm specializing in family immigration (green card based on marriage or other family relations) and business immigration including work visas and green cards, investor visas. Having worked as a lawyer for over 20 years, I have helped hundreds of individuals and their families to live and work in the United States and businesses from small start-ups to multinational companies secure work visas and green cards for employees.",
+    "phone": "(415) 350-2060",
+    "email": "info@lawbridges.com",
+    "address": "P.O. Box 615, Hopland, CA 95449",
+    "hours": null
+  },
+  "branding": {
+    "logo": null,
+    "primaryColor": "#1e3a5f",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Experienced Immigration Attorney serving the San Francisco Bay Area",
+    "subheadline": "Having worked as a lawyer for over 20 years, I have helped hundreds of individuals and their families to live and work in the United States",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1920&h=1080&fit=crop&q=80"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Christian Schmidt",
+      "content": "Having worked as a lawyer for over 20 years, I have helped hundreds of individuals and their families to live and work in the United States and businesses from small start-ups to multinational companies secure work visas and green cards for employees. Serving the greater San Francisco Bay Area, my law practice focuses exclusively on U.S. Immigration and Nationality Law. As a boutique immigration law firm, we provide personalized attention to each client's unique immigration needs.",
+      "image": "https://plus.unsplash.com/premium_photo-1674727219372-4ba6644106bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwbGlicmFyeSUyMGJvb2tzfGVufDB8MHx8fDE3Njg5Njc2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "values": [
+        {
+          "title": "20+ Years Experience",
+          "description": "Over two decades of immigration law expertise"
+        },
+        {
+          "title": "Boutique Firm",
+          "description": "Personalized attention for every client"
+        },
+        {
+          "title": "Bay Area Focus",
+          "description": "Serving the greater San Francisco Bay Area and beyond"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Practice Areas"
+    },
+    "team": {
+      "headline": "Our Attorney"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Christian Schmidt, Attorney at Law. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Christian Schmidt, Attorney at Law - Christian Schmidt / Experienced Immigration Attorney serving the San Francisco Bay Area",
+    "description": "Boutique Immigration Law Firm for family immigration (green card based on marriage or other family relations) and business immigration including work visas and green cards, investor visas"
+  }
+}
